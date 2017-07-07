@@ -7,6 +7,7 @@ ms.topic: article
 ms.prod: console
 keywords: console, character mode applications, command line applications, terminal applications, console api
 ---
+
 # Console Reference
 
 
